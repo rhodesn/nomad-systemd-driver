@@ -1,0 +1,39 @@
+.gitignore
+  s_7d661eb6c4e340::t_33b8687abff381 2-3
+handle.go
+  s_7cbd82b5b10eaf::t_b28eb1ec10b974 5,14-22,89-93,101-109,114-151
+handle_integration_test.go
+  s_330ff58da2c706::t_83528fa318ca7c 1-133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "05cd503f2197c9ab547c11c04a0addd169dad9e3",
+  "prompts": {},
+  "sessions": {
+    "s_330ff58da2c706": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_00478668bffeaL5d8Z9GD4YlhX",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Nick Rhodes <nrhodes91@gmail.com>"
+    },
+    "s_7cbd82b5b10eaf": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_07b2149d7ffeOEOU1ojHhcIBmF",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Nick Rhodes <nrhodes91@gmail.com>"
+    },
+    "s_7d661eb6c4e340": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0006ffda0ffeeGt2dQtzAR1cop",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Nick Rhodes <nrhodes91@gmail.com>"
+    }
+  }
+}
